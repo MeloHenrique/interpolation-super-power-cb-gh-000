@@ -7,4 +7,4 @@ def display_rainbow (colors)
 
 end
 
-puts display_rainbow
+display_rainbow
